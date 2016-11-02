@@ -1,1 +1,1 @@
-# Fichiers de configuration
+Fichiers de configuration
